@@ -5,15 +5,12 @@ motor==3.5.1
 marshmallow==3.18.0 
 umongo==3.1.0 
 git+https://github.com/Joelkb/cinemagoer 
-Heroku3 
 search_engine_parser 
 wget 
-aiofiles 
-ffmpeg-python 
+aiofiles
+aiohttp
 ffmpeg 
 requests 
-aiohttp 
-telegraph 
 ujson 
 pyshorteners 
 datetime 
@@ -23,7 +20,6 @@ python-math
 speedtest-cli 
 shortzy 
 fuzzywuzzy 
-wheel 
 gunicorn==20.1.0 
 werkzeug==2.0.2 
 Flask 
@@ -39,12 +35,10 @@ opencv-python-headless==4.7.0.68
  Pillow==9.4.0  
  psutil==5.9.4  
  NumPy  
- wheel  
- dnspython==2.3.0 
+ wheel   
 python-decouple 
 ffmpeg-python>=0.2.0 
  
 jinja2 
-apscheduler 
-pyshorteners 
+apscheduler  
 colorama
